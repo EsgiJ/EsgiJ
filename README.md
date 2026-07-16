@@ -72,9 +72,9 @@ Open to relocation and remote opportunities.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsgiJ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsgiJ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsgiJ&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsgiJ&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1)
 
 </div>
 
