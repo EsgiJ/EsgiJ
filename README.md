@@ -3,7 +3,7 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oguzhan%20Esgiyusufo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer%20%7C%20Engine%20%26%20Systems%20Programming&descAlignY=60&descSize=16)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Engine+Programmer;Built+Luden+Engine+from+scratch;AAA+experience+%40+IO+Interactive+(007%3A+First+Light)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+%26+Engine+Programmer;Building+Luden+Engine+from+Scratch;AAA+Experience+at+IO+Interactive" />
 </a>
 
 <br/>
