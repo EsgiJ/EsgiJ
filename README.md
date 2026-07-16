@@ -19,11 +19,11 @@
 
 I'm a game programmer specializing in systems programming and engine architecture. I worked on **007: First Light** and **Project Fantasy** at **IO Interactive**, where I gained hands-on experience with proprietary engine technologies. That experience inspired me to build **Luden Engine**, a 2D game engine written entirely from scratch with a custom ECS, data-oriented architecture, and core engine subsystems.
 
-🌍 Open to relocation and remote opportunities.
+Open to relocation and remote opportunities.
 
 ---
 
-## 🚀 Featured Project: Luden Engine
+## Featured Project: Luden Engine
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/EsgiJ/EsgiJ/main/assets/luden-screenshot.png" width="80%" alt="Luden Engine Screenshot"/>
@@ -31,9 +31,9 @@ I'm a game programmer specializing in systems programming and engine architectur
 
 **Luden Engine** is a general-purpose 2D game engine written from scratch in C++20.
 
-- 🧩 **Custom ECS** - Built my own Entity-Component-System architecture instead of relying on libraries such as EnTT.
-- ⚡ **Data-Oriented Design** - Cache-friendly data structures and manual memory management.
-- 🛠️ **ImGui-based Editor** - Complete level editor with scene serialization.
+- **Custom ECS** - Built my own Entity-Component-System architecture instead of relying on libraries such as EnTT.
+- **Data-Oriented Design** - Cache-friendly data structures and manual memory management.
+- **ImGui-based Editor** - Complete level editor with scene serialization.
 
 [![Repo](https://img.shields.io/badge/Repo-Luden-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsgiJ/Luden)
 ![C++20](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -42,7 +42,7 @@ I'm a game programmer specializing in systems programming and engine architectur
 
 ---
 
-## 🎮 Other Projects
+## Other Projects
 
 | Project | Description |
 |---------|-------------|
@@ -51,7 +51,7 @@ I'm a game programmer specializing in systems programming and engine architectur
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
