@@ -41,7 +41,25 @@ Open to relocation and remote opportunities.
 ![ImGui](https://img.shields.io/badge/ImGui-Editor-brightgreen?style=for-the-badge)
 
 ---
-
+ 
+## Featured Project: HTN Visualizer
+ 
+<div align="center">
+<img src="https://raw.githubusercontent.com/EsgiJ/EsgiJ/main/assets/htn-visualizer-screenshot.png" width="80%" alt="HTN Visualizer Screenshot"/>
+<br/><sub> placeholder image path — upload <code>htn-visualizer-screenshot.png</code> to this profile repo's <code>assets/</code> folder, it'll show up automatically.</sub>
+</div>
+A **Hierarchical Task Network (HTN) AI visualization and debugging tool** written in C++ / Dear ImGui. A personal, from-scratch version of a tool concept I needed on AAA production (IO Interactive, 007: First Light), the code, and serialization format are entirely independent and contain nothing proprietary.
+ 
+- **Node Hierarchy** - searchable list view of the compound/primitive task tree, with jump-to-source ("Open in File") from any node
+- **Visual Node Graph** - real-time, draggable node canvas showing task decomposition
+- **Node Properties** - live inspection/editing of a selected task's parameters (e.g. `EngagementRange`)
+- **Mini Map** - fast navigation on larger trees
+[![Repo](https://img.shields.io/badge/Repo-HTN__Visualizer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsgiJ/HTN_Visualizer)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![ImGui](https://img.shields.io/badge/ImGui-Tool-brightgreen?style=for-the-badge)
+![AI Tooling](https://img.shields.io/badge/AI-Debug%20Tooling-blueviolet?style=for-the-badge)
+ 
+---
 ## Other Projects
 
 | Project | Description |
