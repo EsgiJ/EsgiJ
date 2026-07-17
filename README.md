@@ -15,7 +15,7 @@
 
 </div>
 
-## 👋 Hi, I'm Oğuzhan
+## Hi, I'm Oğuzhan
 
 I'm a game programmer specializing in systems programming and engine architecture. I worked on **007: First Light** and **Project Fantasy** at **IO Interactive**, where I gained hands-on experience with proprietary engine technologies. That experience inspired me to build **Luden Engine**, a 2D game engine written entirely from scratch with a custom ECS, data-oriented architecture, and core engine subsystems.
 
