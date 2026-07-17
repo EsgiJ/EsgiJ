@@ -54,6 +54,7 @@ A **Hierarchical Task Network (HTN) AI visualization and debugging tool** writte
 - **Visual Node Graph** - real-time, draggable node canvas showing task decomposition
 - **Node Properties** - live inspection/editing of a selected task's parameters (e.g. `EngagementRange`)
 - **Mini Map** - fast navigation on larger trees
+  
 [![Repo](https://img.shields.io/badge/Repo-HTN__Visualizer-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EsgiJ/HTN_Visualizer)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![ImGui](https://img.shields.io/badge/ImGui-Tool-brightgreen?style=for-the-badge)
