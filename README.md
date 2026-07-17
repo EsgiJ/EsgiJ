@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oğuzhan%20Esgiyusufo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer%20%7C%20Engine%20%26%20Systems%20Programming&descAlignY=60&descSize=16" width="100%"/>
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oguzhan%20Esgiyusufo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer%20%7C%20Engine%20%26%20Systems%20Programming&descAlignY=60&descSize=16)
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Systems+%26+Engine+Programmer;Built+Luden+Engine+from+scratch;AAA+experience+%40+IO+Interactive+(007%3A+First+Light)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Systems+%26+Engine+Programmer;Building+Luden+Engine+from+Scratch;AAA+Experience+at+IO+Interactive" />
 </a>
 
 <br/>
@@ -53,20 +53,28 @@ Open to relocation and remote opportunities.
 
 ## Technologies
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++20](https://img.shields.io/badge/C++20-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![Data--Oriented%20Design](https://img.shields.io/badge/Data--Oriented%20Design-FF6B35?style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-orange?style=for-the-badge)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge)
 ![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Premake](https://img.shields.io/badge/Premake-1E88E5?style=for-the-badge)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsgiJ&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsgiJ&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsgiJ&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsgiJ&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1)
 
 </div>
 
