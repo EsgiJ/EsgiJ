@@ -47,6 +47,7 @@ Open to relocation and remote opportunities.
 <div align="center">
 <img src="https://raw.githubusercontent.com/EsgiJ/EsgiJ/main/assets/htn-visualizer-screenshot.png" width="80%" alt="HTN Visualizer Screenshot"/>
 </div>
+
 A **Hierarchical Task Network (HTN) AI visualization and debugging tool** written in C++ / Dear ImGui. A personal, from-scratch version of a tool concept I needed on AAA production (IO Interactive, 007: First Light), the code, and serialization format are entirely independent and contain nothing proprietary.
  
 - **Node Hierarchy** - searchable list view of the compound/primitive task tree, with jump-to-source ("Open in File") from any node
