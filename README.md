@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oguzhan%20Esgiyusufo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer%20%7C%20Engine%20%26%20Systems%20Programming&descAlignY=60&descSize=16)
+![](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Oguzhan%20Esgiyusufo&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Game%20Programmer%20%7C%Gameplay%20%26%20Systems%20Programming&descAlignY=60&descSize=16)
 
 <a href="https://readme-typing-svg.demolab.com">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Engine+%26+Tools+Programmer;Building+Luden+Engine+from+Scratch;AAA+Experience+at+IO+Interactive" />
@@ -17,7 +17,7 @@
 
 ## Hi, I'm Oğuzhan
 
-I'm a game programmer specializing in systems programming and engine architecture. I worked on **007: First Light** and **Project Fantasy** at **IO Interactive**, where I gained hands-on experience with proprietary engine technologies. That experience inspired me to build **Luden Engine**, a 2D game engine written entirely from scratch with a custom ECS, data-oriented architecture, and core engine subsystems.
+I'm a game programmer specializing in gameplay systems programming and engine architecture. I worked on **007: First Light** and **Project Fantasy** at **IO Interactive**, where I gained hands-on experience with proprietary engine technologies. That experience inspired me to build **Luden Engine**, a 2D game engine written entirely from scratch with a custom ECS, data-oriented architecture, and core engine subsystems.
 
 Open to relocation and remote opportunities.
 
